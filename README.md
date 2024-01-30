@@ -1,5 +1,5 @@
 # HinovaOficinas
-[![NPM](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/LICENSE)
+[![NPM](https://github.com/RenanCostaSilva/HinovaOficinas/blob/master/LICENSE)
 
 # Sobre o aplicativo
 Teste para a vaga de Desenvolvedor Mobile Pleno || Senior - 30/01/2024
