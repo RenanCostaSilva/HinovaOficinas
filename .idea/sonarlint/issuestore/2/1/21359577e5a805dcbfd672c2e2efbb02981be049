@@ -1,0 +1,22 @@
+
+z	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(´™ü™ıÿÿÿÿ8Èí¬ßÔ1
+9
+java:S1643,"Use a StringBuilder instead.(õ½8Éí¬ßÔ1
+9
+java:S16430"Use a StringBuilder instead.(ò“²é8Éí¬ßÔ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ûï…º8¦¦¬ßÔ1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆ°«¦8Üí¬ßÔ1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç‹Ìé8Üí¬ßÔ1
+R
+java:S6397>"5Replace this character class by the character itself.(¦·×8î¬ßÔ1
+R
+java:S6397>"5Replace this character class by the character itself.(¦·×8‚î¬ßÔ1
+R
+java:S6397>"5Replace this character class by the character itself.(¦·×8ƒî¬ßÔ1
+R
+java:S6397>"5Replace this character class by the character itself.(¦·×8ƒî¬ßÔ1
+R
+java:S6397>"5Replace this character class by the character itself.(¦·×8„î¬ßÔ1

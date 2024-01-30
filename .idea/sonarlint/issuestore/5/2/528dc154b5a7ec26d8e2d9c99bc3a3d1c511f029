@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´é«ùÿÿÿÿ8õ¯æÜÔ1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÿŸûÿÿÿÿ8ª½ëÜÔ1
+E
+java:S1659"#Declare "dig11" on a separate line.(îùıøÿÿÿÿ8’ÔèÜÔ1
+[
+java:S1659">Declare "i" and all following declarations on a separate line.(¸„áë8‹°æÜÔ1
+H
+java:S1905"&Remove this unnecessary cast to "int".(ÚËÍ¶ıÿÿÿÿ8‘°æÜÔ1
+H
+java:S1905,"&Remove this unnecessary cast to "int".(ÚËÍ¶ıÿÿÿÿ8“°æÜÔ1

@@ -1,0 +1,13 @@
+
+f
+java:S1192*"IDefine a constant instead of duplicating this literal "latitude" 3 times.(åê½÷8Ş˜ÁÃÕ1
+g
+java:S1192*"JDefine a constant instead of duplicating this literal "longitude" 3 times.(åê½÷8Ş˜ÁÃÕ1
+y
+java:S3252|"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(Ìîş½ùÿÿÿÿ8Ä™ÁÃÕ1
+y
+java:S3252}"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ó„Âœüÿÿÿÿ8Ä™ÁÃÕ1
+k
+java:S3252…"HUse static access with "android.content.Context" for "LOCATION_SERVICE".(±·öãùÿÿÿÿ8Å™ÁÃÕ1
+X
+java:S2209…"5Change this instance-reference to a static reference.(±·öãùÿÿÿÿ8Å™ÁÃÕ1

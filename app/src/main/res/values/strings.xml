@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HinovaOficinas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Texto Indicação -->
+    <string name="texto_indicacao">
+        O nosso espaço físico foi totalmente planejado, construído e organizado para oferecer a melhor experiência de compra para nossos clientes.
+        As áreas de circulação de carros e de pedestres são totalmente independentes e bem definidas para garantir a segurança de todos.
+        Criamos um corredor de passagem interativo que leva até ao espaço de espera, onde os clientes podem aguardar enquanto realizamos os
+        serviços do carro. A estrutura física do nosso espaço é diferente de qualquer outra oficina mecânica em Belo Horizonte.
+        Pensamos em cada detalhe para você se sentir em casa.\n\n
+
+        Sempre com o foco da atender os nossos clientes, viemos convidar você a conhecer melhor as nossas oficinas sempre com promisso total com informações
+        claras e detalhadas em cada etapa do serviço, guiando-o desde o início até a conclusão e Comprometidos com a pontualidade, atendemos no horário marcado,
+        cumprimos prazos e entregamos seu veículo no tempo certo.\n\n
+
+        Atuamos no setor automotivo de forma ética, profissional e competitiva disponibilizando com excelência nossos produtos e serviços, superando as expectativas
+        dos nossos clientes. Sua segurança está em mãos de profissionais comprometidos, prontos para proporcionar um serviço premium e confiável.
+    </string>
+
+    <!-- Permissoes -->
+    <string name="rationale_camera"> Este aplicativo precisa de permissão da câmera para pode tirar fotos</string>
+    <string name="rationale_location">Este aplicativo precisa acessar a sua localização , para te conhecer melhor</string>
+    <string name="rationale_camera_location">Este aplicativo precisa acessar a sua localização e a câmera, para te conhecer melhor</string>
+    <string name="returned_from_app_settings_to_activity">
+        Vá até as configurações do celular, altere , habilitando as seguintes permissões:
+        \n\nCâmera: %s
+        \n\nLocalização: %s
+    </string>
+    <string name="camera">Câmera</string>
+    <string name="location">Localização</string>
+</resources>
