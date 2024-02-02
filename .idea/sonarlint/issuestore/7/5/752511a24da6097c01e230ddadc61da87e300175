@@ -1,8 +1,9 @@
 
 n
-java:S11924"LDefine a constant instead of duplicating this literal "78885983073" 4 times.(ÖÒ‡–şÿÿÿÿ8ñ¶ùÅÕ1
+java:S1192Q"LDefine a constant instead of duplicating this literal "78885983073" 3 times.(£ˆÅÓúÿÿÿÿ8ñ¶ùÅÕ1
 L
 java:S1066^"/Merge this if statement with the enclosing one.(Àµé«8µÙëÅÕ1
+X	java:S1254"<This block of commented-out lines of code should be removed.(½º˜é8éÏœ×Ö1
 Z
 java:S1117O"8Rename "user" which hides the field declared at line 37.(ºƒµùÿÿÿÿ8íÚëÅÕ1
 E	java:S108_")Either remove or fill this block of code.(ı•Íğ8îÚëÅÕ1

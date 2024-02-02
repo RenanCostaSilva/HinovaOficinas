@@ -59,3 +59,5 @@ Rapp/src/main/java/br/com/renancsdev/hinovaoficinas/api/request/RequestOficina.j
 Tapp/src/main/java/br/com/renancsdev/hinovaoficinas/api/request/RequestIndicacao.java,b\c\bcfd64a9efbfada925467dde3eedb9ff87154275
 |
 Lapp/src/main/java/br/com/renancsdev/hinovaoficinas/model/pessoa/Usuario.java,b\a\ba68e42ef81a62826de56c6283a60c34138531ad
+
+Oapp/src/main/java/br/com/renancsdev/hinovaoficinas/util/gps/Geolocalizacao.java,7\0\70f13d79aefe55f7729723b83b36508eedb299b7

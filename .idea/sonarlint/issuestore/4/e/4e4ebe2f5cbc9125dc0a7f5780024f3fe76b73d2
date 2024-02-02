@@ -1,27 +1,27 @@
 
-o
-java:S1104	"TMake latitude a static final constant or non-public and provide accessors if needed.(Õ„ÆÇþÿÿÿÿ
-k
+v
+java:S1104	"TMake latitude a static final constant or non-public and provide accessors if needed.(Õ„ÆÇþÿÿÿÿ8º¿•ÕÖ1
+r
 java:S1104
-"UMake longitude a static final constant or non-public and provide accessors if needed.(ššËæ
-I
-java:S1444	".Make this "public static latitude" field final(Õ„ÆÇþÿÿÿÿ
-E
-java:S1444
-"/Make this "public static longitude" field final(ššËæ
-œ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªù¡¸þÿÿÿÿ
-—
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ÂÜÇ
-—
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áøµë
-K
-java:S2696"6Make the enclosing method "static" or remove this set.(„ü¬r
-J
-java:S2209"5Change this instance-reference to a static reference.(„ü¬r
-Q
-java:S2696"6Make the enclosing method "static" or remove this set.(úšý„ùÿÿÿÿ
+"UMake longitude a static final constant or non-public and provide accessors if needed.(ššËæ8º¿•ÕÖ1
 P
-java:S2209"5Change this instance-reference to a static reference.(úšý„ùÿÿÿÿ
-`
-java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(áøµë
+java:S1444	".Make this "public static latitude" field final(Õ„ÆÇþÿÿÿÿ8º¿•ÕÖ1
+L
+java:S1444
+"/Make this "public static longitude" field final(ššËæ8º¿•ÕÖ1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªù¡¸þÿÿÿÿ8º¿•ÕÖ1
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ÂÜÇ8º¿•ÕÖ1
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áøµë8º¿•ÕÖ1
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(„ü¬r8Ê¿•ÕÖ1
+Q
+java:S2209"5Change this instance-reference to a static reference.(„ü¬r8Ê¿•ÕÖ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(úšý„ùÿÿÿÿ8Ê¿•ÕÖ1
+W
+java:S2209"5Change this instance-reference to a static reference.(úšý„ùÿÿÿÿ8Ê¿•ÕÖ1
+g
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(áøµë8Ê¿•ÕÖ1

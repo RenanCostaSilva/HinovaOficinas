@@ -49,8 +49,8 @@ public class Login extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
 
-        binding.editLoginLogin.setText("78885983073");
-        binding.editLoginSenha.setText("Aaxvt5qweasd");
+        //binding.editLoginLogin.setText("78885983073");
+        //binding.editLoginSenha.setText("Aaxvt5qweasd");
         binding.button.setOnClickListener(v ->validarAcesso());
 
     }

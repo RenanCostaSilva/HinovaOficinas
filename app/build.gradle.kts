@@ -35,15 +35,17 @@ android {
 
 dependencies {
 
-    val stdlibVersion = "1.8.22"
+    val stdlibVersion = "1.9.22"
     val retrofit2Version = "2.9.0"
     val okhttp3Version = "4.12.0"
-    val gsonVersion = "2.9.0"
+    val gsonVersion = "2.10.1"
     val koushikduttaVersion= "3.1.0"
-    val glideVersion = "4.13.1"
+    val glideVersion = "4.16.0"
     val picassoVersion = "2.71828"
     val jacksonAnnot = "2.16.1"
     val easypermVers = "3.0.0"
+    val gmsVersion = "21.1.0"
+    val commonsIoVersion = ":2.15.1"
 
     // Retrofit
     implementation("com.squareup.retrofit2:retrofit:$retrofit2Version")
@@ -70,6 +72,8 @@ dependencies {
 
     implementation("commons-io:commons-io:2.15.1")
 
+    //Google GPS
+    implementation("com.google.android.gms:play-services-location:$gmsVersion")
 
     //fix Android studio
     implementation("org.jetbrains.kotlin:kotlin-stdlib:$stdlibVersion")
